@@ -4,7 +4,7 @@ Este proyecto detalla el proceso de implementación de un servidor web en la nub
 
 ## 🚀 Información del Proyecto
 - **Estudiante:** Luna Baca
-- **IP Pública:** http://34.228.39.22
+- **IP Pública:** http://34.228.39.22](http://34.228.39.22/index.php/nosotros/
 - **Tecnologías:** AWS EC2, Ubuntu, Apache, MariaDB, PHP.
 
 ## 🛠️ Pasos Realizados
